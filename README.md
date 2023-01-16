@@ -45,3 +45,7 @@ source .devops/bin/activate
 * `make_prediction.sh`  ---  simple test script that tests if the application works
 * `run_docker.sh`, `run_kubernetes.sh`, `upload_docker.sh`  ---   Sets up the docker and kubernetes cluster
 * `requirements.txt`  ---   Dependencies for the application to run
+
+### DevOps Engineer
+> Both GitHub accounts are mine.  `EbenGitHub`   &   `Eenrics`
+>  Abenezer Eshetie  (ebenezeresh525@gmail.com)
